@@ -1,3 +1,11 @@
 [submodule "xls"]
 	path = xls
 	url = https://github.com/intofairy/subtree.git
+[submodule "branch"]
+	path = branch
+	url = https://github.com/intofairy/subtree.git
+	branch = Branch
+[submodule "branch2"]
+	path = branch2
+	url = https://github.com/intofairy/subtree.git
+	branch = Branch
